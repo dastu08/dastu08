@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dastu08
 - 👀 I’m interested in ... embedded programming
 - 🌱 I’m currently learning ... C++
-- 📫 How to reach me ... look at my repos
+- 📫 How to reach me ... look at my repos or find me in the matrix @dastu08:matrix.org
 
 <!---
 dastu08/dastu08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
